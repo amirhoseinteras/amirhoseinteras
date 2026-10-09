@@ -1,37 +1,34 @@
-# Hi, I'm Amirhosein 👋
+# Amirhosein — Open-Source Software for Windows & Multilingual Workflows
 
-**Building practical open-source tools for Windows, productivity, and multilingual workflows.**
+I build practical desktop utilities and open-source Python tools, with a focus on everyday productivity, file workflows and Persian/Turkish text processing.
 
-I enjoy creating software that makes everyday computer tasks simpler, more reliable, and easier to automate. My interests include desktop utilities, download and file-management tools, and language-aware applications.
+## Download my projects
 
-## 🔧 What I'm working on
+| Project | What it does | Source | Releases |
+| --- | --- | --- | --- |
+| **Downloading** | Windows media downloader with video/audio quality choices (yt-dlp) | [Code](https://github.com/amirhoseinteras/downloading-desktop) | [3.1](https://github.com/amirhoseinteras/downloading-desktop/releases/tag/v3.1) |
+| **OpenFetch** | HTTP/HTTPS download manager with progress, resume and parallel transfers | [Code](https://github.com/amirhoseinteras/openfetch-download-manager) | [0.4](https://github.com/amirhoseinteras/openfetch-download-manager/releases/tag/v0.4) |
+| **FileTidy** | Organize mixed file folders with category preview and undo | [Code](https://github.com/amirhoseinteras/filetidy-desktop) | [1.0.0](https://github.com/amirhoseinteras/filetidy-desktop/releases/tag/v1.0.0) |
+| **HashGuard** | SHA-256 file hashing and checksum verification | [Code](https://github.com/amirhoseinteras/hashguard-desktop) | [1.0.0](https://github.com/amirhoseinteras/hashguard-desktop/releases/tag/v1.0.0) |
+| **MediaShift** | Offline audio/video conversion with separately installed FFmpeg | [Code](https://github.com/amirhoseinteras/mediashift-desktop) | [1.0.0](https://github.com/amirhoseinteras/mediashift-desktop/releases/tag/v1.0.0) |
+| **fa-tr-textkit** | Offline Python normalization and search helpers for Persian and Turkish Unicode | [Code](https://github.com/amirhoseinteras/fa-tr-textkit) | [Source 0.1.0](https://github.com/amirhoseinteras/fa-tr-textkit/releases/tag/v0.1.0) |
 
-- **Windows utilities:** lightweight desktop tools for everyday tasks and productivity.
-- **File and download workflows:** practical solutions for managing files and downloads.
-- **Persian & Turkish language tools:** text processing and multilingual usability.
-- **Local AI & automation:** experiments with privacy-conscious AI and repeatable workflows.
+### Downloads, documentation and safety
 
-## 📦 Get the software
+Each Windows tool has a **setup installer**, a **portable ZIP**, an English/Persian README, and a SHA-256 checksum file under **GitHub Releases**. The Windows binaries are **unsigned** and may trigger Windows SmartScreen warnings. Verify release checksums and review source code before running.
 
-As projects become available, each public repository will provide:
+**fa-tr-textkit is a Python library**, not a Windows EXE; get the source and follow the README installation instructions.
 
-1. A clear **README** with features, requirements, screenshots, and instructions.
-2. Versioned, ready-to-download files under **Releases**, whenever a packaged build is provided.
-3. A changelog, a suitable license, and an issue tracker for bugs or suggestions.
-4. Searchable repository descriptions and relevant **topics**.
+Projects include license information, issue tracking and automated unit tests. Repository descriptions and search topics help developers and AI coding assistants discover the right tool; implementation details are defined by the source code.
 
-**Current status:** I'm preparing existing projects for public release. I'll link the verified projects and their download pages here as they are published. There are no public software releases linked here yet.
+### Interests
 
-## 🌐 Documentation & discoverability
+Windows productivity tools · Python · Offline-first utilities · Persian and Turkish internationalization · Practical AI and automation.
 
-I aim to document projects in clear **English** so they are useful to people, search engines, and AI coding assistants. Where relevant, projects may also provide documentation or functionality in **فارسی (Persian)** and **Türkçe (Turkish)**.
+### Contribute or report a bug
 
-For technical details, check each project's source code, installation guide, and release notes rather than relying on a summary alone.
-
-## 💬 Get in touch
-
-For a specific project, please use that repository's **Issues** or **Discussions** section (when enabled). You can also explore my [GitHub repositories](https://github.com/amirhoseinteras?tab=repositories).
+Open an [issue](https://github.com/amirhoseinteras?tab=repositories) on the relevant project and include reproducible steps. Tested contributions, translations, accessibility improvements and documentation updates are welcome.
 
 ---
 
-*Focused on useful software, understandable documentation, and reproducible releases.*
+**فارسی:** برای دریافت برنامه‌های رایگان ویندوزی، روی لینک نسخه در جدول بالا بزنید. هر برنامه صفحه دانلود جداگانه با نسخه نصبی و پرتابل دارد. ابزار متن فارسی–ترکی یک کتابخانه پایتون است و فایل نصب ویندوز ندارد.
